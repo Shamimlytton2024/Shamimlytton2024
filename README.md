@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Shamimlytton2024
-- 👀 I’m interested in Software Technologies
-- 🌱 I’m currently learning Backend Develeopment
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me kalandeshamim@gmail.com
-- 😄 Pronouns:Ms, her, she
-- ⚡ Fun fact: ...I love Plane Turbulance !
+# Name: shamim lytton kalande
+
+## Role: Digital_Architect_&_Code_Synthesizer
+### Location : Cyberspace.exe
+### Current_Mission: Building _The_Future.init
+#### Status:"Compiling dreams into reality...
 
 <!---
 Shamimlytton2024/Shamimlytton2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
